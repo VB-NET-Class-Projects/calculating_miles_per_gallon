@@ -1,0 +1,11 @@
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\Ch3_p1\bin\Debug\Ch_3_1.exe.config
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\Ch3_p1\bin\Debug\Ch_3_1.exe
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\Ch3_p1\bin\Debug\Ch_3_1.pdb
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\Ch3_p1\bin\Debug\Ch_3_1.xml
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\Ch3_p1\obj\Debug\Ch_3_1.vbprojAssemblyReference.cache
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\Ch3_p1\obj\Debug\Ch_3_1.Resources.resources
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\Ch3_p1\obj\Debug\Ch_3_1.vbproj.GenerateResource.cache
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\Ch3_p1\obj\Debug\Ch_3_1.exe
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\Ch3_p1\obj\Debug\Ch_3_1.xml
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\Ch3_p1\obj\Debug\Ch_3_1.pdb
+C:\Users\Henri\Desktop\VisualBasic\Chapter_3\Ch3_p1\obj\Debug\Ch_3_1.Form1.resources
